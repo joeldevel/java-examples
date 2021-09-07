@@ -7,7 +7,11 @@ Short pieces of codes for specific tasks i.e. reading a file, using a collection
 
 ```$ javac YourClass.java ```
 
-This produces YourClass.class file.
+This produces `YourClass.class` file.
+
+```$ javac Class1.java Class2.java```
+
+This produces `Class1.class`  and `Class2.class` files
 
 
 ### Running simple examples
